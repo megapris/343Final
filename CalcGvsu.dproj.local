@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/18 13:27:16.000.159,=C:\Delta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/04/19 22:04:25.901,=C:\Delta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/04/19 22:20:07.959,C:\Delta\PolaCalc\uMain.dfm=C:\Delta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/04/19 22:20:07.959,C:\Delta\PolaCalc\uMain.pas=C:\Delta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/04/19 22:21:01.335,C:\Delta\PolaCalc\CalcGvsu.dproj=C:\Delta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
